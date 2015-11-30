@@ -1,3 +1,3 @@
-# whalee-gui
+# todoMEAN
+todo list app on MEAN
 
-This is the GUI for the INSA project Whalee.io
